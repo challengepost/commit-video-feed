@@ -2,7 +2,7 @@
 license: "&#xA9; 2015 Devpost Inc."
 podcast:
   title: The Devpost Commit
-  art: http://link/to/cover/art.png
+  art: http://devpostcommit.s3.amazonaws.com/art.jpg
   link: http://commit.devpost.com
   category: Technology
   subcategories:
