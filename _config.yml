@@ -1,0 +1,14 @@
+# Podcast
+license: "&#x2117; &amp; &#xA9; 2015 Devpost Inc."
+podcast:
+  title: The Devpost Commit
+  art: http://link/to/cover/art.png
+  link: http://commit.devpost.com
+  category: Technology
+  subcategories:
+  - Tech News
+  subtitle: Hackers, hackathons, and assorted nerdery
+  summary: >
+    On The Commit, Devpost's weekly podcast, Richard and Neal talk about our favorite projects, interview leading hackers and evangelists, and keep you up to date developer news. New episodes hit the street every Thursday!
+author: "Devpost Inc."
+email: "podcast@devpost.com"
